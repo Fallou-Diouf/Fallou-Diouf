@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 Compétences
-- **Langages** : Python, Java, C C++, JavaScript  
+- **Langages** : Python, Java, C, C++, JavaScript  
 - **Frameworks** : Angular, Spring Boot, Laravel  
 - **IA & Data** : Machine Learning, Deep Learning, NLP, Computer Vision  
-- **Outils** : Git, Linux, Docker  
+- **Outils** : Git 
 
 ---
 
