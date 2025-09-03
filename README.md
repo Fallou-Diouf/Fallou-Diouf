@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Fallou Diouf  
 
-<!--
-**Fallou-Diouf/Fallou-Diouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **Master Informatique (Vision & Machine Intelligente)** à l'Université Paris Cité.  
+💻 Passionné par l’**IA, la programmation et le développement web**.  
+🌍 Originaire du Sénégal, actuellement à Paris.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences
+- **Langages** : Python, Java, C C++, JavaScript  
+- **Frameworks** : Angular, Spring Boot, Laravel  
+- **IA & Data** : Machine Learning, Deep Learning, NLP, Computer Vision  
+- **Outils** : Git, Linux, Docker  
+
+---
+
+## 📫 Contact
+- ✉️ Email :  fallou.diouf@etu.u-paris.fr    
+- 💻 https://github.com/Fallou-Diouf/Fallou-Diouf
+
