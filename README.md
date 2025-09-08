@@ -16,6 +16,5 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email :  fallou.diouf@etu.u-paris.fr    
-- 💻 https://github.com/Fallou-Diouf/Fallou-Diouf
+- ✉️ Email :  fallou.diouf@etu.u-paris.fr 
 
