@@ -35,10 +35,9 @@ Plateforme complète d'indexation et de recherche d'images basée sur le Deep Le
 - API REST Django
 - Elasticsearch + Recherche vectorielle
 - Extraction de caractéristiques avec CNN
-- Jusqu'à **50 requêtes/seconde**
-- Latence inférieure à **120 ms**
 
 🔗→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI) 
+
 ---
 
 ## 🔍 Information Retrieval — Moteur de recherche NLP
@@ -54,6 +53,7 @@ Moteur de recherche combinant recherche lexicale et recherche sémantique.
 - Réduction de **35 %** de la latence
 
 🔗→ [Voir le projet](https://github.com/Fallou-Diouf/InformationRetrieval)
+
 ---
 
 ## 🪙 Currency Vision — Détection et comptage de pièces
@@ -71,7 +71,7 @@ Pipeline complet de vision par ordinateur utilisant des méthodes classiques de 
 - **94 % d'accuracy**
 - Temps de traitement inférieur à **150 ms par image**
 
-🔗 *(Lien du dépôt GitHub)*
+🔗 [voir le projet](https://github.com/Fallou-Diouf/Currency_Vision)
 
 ---
 
