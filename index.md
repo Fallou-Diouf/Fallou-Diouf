@@ -103,7 +103,7 @@ Classification de formes à l'aide de descripteurs classiques.
 - Vote majoritaire multi-descripteurs
 - **91,9 % d'accuracy**
 
-🔗 → [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
+🔗 → [voir le projet](https://github.com/Fallou-Diouf/Reconnaissance-de-Forme)
 
 ---
 
