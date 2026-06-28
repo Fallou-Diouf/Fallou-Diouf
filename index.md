@@ -25,13 +25,17 @@ Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les syst
 
 ## 🧠 Compétences
 
-- Deep Learning : PyTorch, ViT, CNN, SimCLR  
-- Computer Vision : OpenCV, Transformers  
-- NLP : BERT, SentenceTransformers  
-- Backend : FastAPI, Django, Docker  
-- Data : Elasticsearch, MongoDB  
-- Langages : Python, SQL, JavaScript, C/C++
-
+- Machine Learning & Data Science:
+Techniques : Regression, classification, clustering (k-NN, k-means), model evaluation, hyperparameter tuning, Analyse exploratoire de données
+- Outils : Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
+- Vision par Ordinateur & Deep Learning:
+Architectures : Vision Transformer (ViT), CNN (AlexNet, ResNet), Apprentissage auto-supervisé (SimCLR)
+- Frameworks : PyTorch (maitrise), TensorFlow (notions), Hugging Face Vision, OpenCV
+Spécialités : Classification d’images, indexation vectorielle, adaptation temps-réel (TTT), descripteurs classiques
+D´eveloppement & Déploiement:
+- Langages : Python, SQL, JavaScript, Java, C/C++, HTML
+- Backend & APIs : FastAPI, Django, REST APIs, Docker, Git, Linux, PySpark
+- Data Tools : Elasticsearch, MongoDB, Vector Databases, Semantic Search, Embeddings, postgresSQL, Oracle
 ---
 
 ## 📫 Contact  
