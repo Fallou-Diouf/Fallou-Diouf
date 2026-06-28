@@ -38,8 +38,7 @@ Plateforme complète d'indexation et de recherche d'images basée sur le Deep Le
 - Jusqu'à **50 requêtes/seconde**
 - Latence inférieure à **120 ms**
 
-🔗→ [Voir le projet](https://github.com/Fallou-Diouf/InformationRetrieval)
-
+🔗→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI) 
 ---
 
 ## 🔍 Information Retrieval — Moteur de recherche NLP
@@ -54,8 +53,7 @@ Moteur de recherche combinant recherche lexicale et recherche sémantique.
 - MRR amélioré de **0,58 à 0,72**
 - Réduction de **35 %** de la latence
 
-🔗→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
-
+🔗→ [Voir le projet](https://github.com/Fallou-Diouf/InformationRetrieval)
 ---
 
 ## 🪙 Currency Vision — Détection et comptage de pièces
@@ -186,17 +184,6 @@ Pipeline complet de classification de chiffres manuscrits.
 - Git
 - Linux
 - PySpark
-
----
-
-# 📊 Quelques chiffres
-
-- 🚀 Plus de **10 projets** en Machine Learning
-- 🖼️ **10 000+** images indexées
-- 🎯 **90,08 %** sur CIFAR-10 avec Test-Time Training
-- 🤖 **92 %** d'accuracy avec BERT
-- 🔍 **+24 %** de gain sur le MRR d'un moteur de recherche
-- ⚡ API REST capable de traiter **50 requêtes/seconde**
 
 ---
 
