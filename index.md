@@ -71,7 +71,7 @@ Pipeline complet de vision par ordinateur utilisant des méthodes classiques de 
 - **94 % d'accuracy**
 - Temps de traitement inférieur à **150 ms par image**
 
-🔗 [voir le projet](https://github.com/Fallou-Diouf/Currency_Vision)
+🔗→ [voir le projet](https://github.com/Fallou-Diouf/Currency_Vision)
 
 ---
 
@@ -87,7 +87,7 @@ Fine-tuning d'un modèle BERT pour la classification de sentiments.
 - **F1-score : 0,90**
 - Pipeline de prétraitement optimisé (**-40 %** de temps d'entraînement)
 
-🔗 *(Lien du dépôt GitHub)*
+🔗→ [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
 
 ---
 
@@ -103,7 +103,7 @@ Classification de formes à l'aide de descripteurs classiques.
 - Vote majoritaire multi-descripteurs
 - **91,9 % d'accuracy**
 
-🔗 *(Lien du dépôt GitHub)*
+🔗 → [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
 
 ---
 
@@ -121,7 +121,7 @@ Implémentation d'AlexNet avec techniques de régularisation.
 - **95,47 %** d'accuracy en entraînement
 - **79,11 %** en validation
 
-🔗 *(Lien du dépôt GitHub)*
+🔗→ [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
 
 ---
 
@@ -135,7 +135,7 @@ Pipeline complet de classification de chiffres manuscrits.
 - Analyse des erreurs
 - **96,17 %** d'accuracy
 
-🔗 *(Lien du dépôt GitHub)*
+🔗→ [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
 
 ---
 
