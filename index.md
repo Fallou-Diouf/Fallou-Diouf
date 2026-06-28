@@ -1,10 +1,14 @@
-# 👋 Bonjour, moi c'est Fallou Diouf
+# 👋 À propos de moi
 
-**Ingénieur Machine Learning • Vision par Ordinateur • Deep Learning • Recherche d'Information**
+Je suis **Fallou Diouf**, étudiant en **Master 2 Vision & Machine Intelligence** à l'Université Paris Cité, spécialisé en **Intelligence Artificielle, Vision par Ordinateur, Deep Learning et Recherche d'Information**.
 
-🎓 **Master Vision & Machine Intelligence — Université Paris Cité**
+Mon parcours est construit autour d'une double expertise. J'ai d'abord suivi une formation en **Gestion des Données et Ingénierie Logicielle**, qui m'a permis d'acquérir de solides bases en conception logicielle, architecture d'applications, bases de données, développement d'API et gestion de projets. J'ai ensuite choisi de me spécialiser en **Vision par Ordinateur et Machine Learning** afin de concevoir des systèmes intelligents capables d'analyser, comprendre et exploiter des données visuelles et multimédias.
 
-Passionné par l'intelligence artificielle, je conçois des systèmes capables d'analyser, comprendre et retrouver efficacement l'information à partir d'images et de textes. Mes projets couvrent le **Deep Learning**, la **Vision par Ordinateur**, la **Recherche d'Information (Information Retrieval)** ainsi que le développement d'API de Machine Learning prêtes pour la production.
+Aujourd'hui, je m'intéresse particulièrement à la conception de solutions d'IA de bout en bout : du traitement et de l'indexation des données, à l'entraînement de modèles de Deep Learning, jusqu'au déploiement d'applications performantes et prêtes pour la production.
+
+À travers mes projets, j'ai travaillé sur des problématiques variées telles que la **classification d'images**, l'**apprentissage auto-supervisé**, le **Test-Time Training**, la **recherche d'information**, la **recherche vectorielle**, les **systèmes d'indexation d'images**, le **traitement automatique du langage naturel (NLP)** et le développement d'API de Machine Learning.
+
+Je recherche aujourd'hui des opportunités en **Machine Learning Engineering**, **Computer Vision**, **Applied AI** ou **R&D**, où je pourrai contribuer au développement de systèmes intelligents à fort impact tout en continuant à approfondir mes compétences en intelligence artificielle.
 
 ---
 
