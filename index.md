@@ -10,7 +10,7 @@ Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les syst
 ### 🔥 Test-Time Training — SimCLR + Vision Transformer  
 → Accuracy : **90.08%**  
 → Robustesse : **+0.39** sur CIFAR‑10‑C  
-→ [Voir le projet](projects/ttt-simclr-vit.md)
+→ [Voir le projet](https://github.com/Fallou-Diouf/SelfSupervised-TTT-ImageClassification)
 
 ### 🖼️ ArtIndexAI — Indexation d’images à grande échelle  
 → 10k+ images indexées  
