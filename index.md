@@ -19,7 +19,7 @@ Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les syst
 
 ### 🔍 NLP Search Engine — TF‑IDF, BM25, Embeddings  
 → MRR : **0.58 → 0.72**  
-→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
+→ [Voir le projet](k)
 
 ---
 
