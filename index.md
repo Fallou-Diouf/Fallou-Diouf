@@ -121,7 +121,7 @@ Implémentation d'AlexNet avec techniques de régularisation.
 - **95,47 %** d'accuracy en entraînement
 - **79,11 %** en validation
 
-🔗→ [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
+🔗→ [voir le projet](https://github.com/Fallou-Diouf/Classification-de-pieces-avec-CNNs)
 
 ---
 
