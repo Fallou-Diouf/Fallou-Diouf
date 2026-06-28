@@ -14,12 +14,12 @@ Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les syst
 
 ### 🖼️ ArtIndexAI — Indexation d’images à grande échelle  
 → 10k+ images indexées  
-→ API Django : **50 req/s**, latence **<120 ms**  
-→ [Voir le projet](projects/artindexai.md)
+→ API Django
+→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
 
 ### 🔍 NLP Search Engine — TF‑IDF, BM25, Embeddings  
 → MRR : **0.58 → 0.72**  
-→ [Voir le projet](projects/nlp-search-engine.md)
+→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
 
 ---
 
