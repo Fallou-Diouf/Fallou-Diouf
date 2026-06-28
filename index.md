@@ -17,9 +17,9 @@ Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les syst
 → API Django
 → [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
 
-### 🔍 NLP Search Engine — TF‑IDF, BM25, Embeddings  
+### 🔍 NLP Search Engine: InformationRetrieval — TF‑IDF, BM25, Embeddings  
 → MRR : **0.58 → 0.72**  
-→ [Voir le projet](k)
+→ [Voir le projet](https://github.com/Fallou-Diouf/InformationRetrieval)
 
 ---
 
