@@ -135,7 +135,7 @@ Pipeline complet de classification de chiffres manuscrits.
 - Analyse des erreurs
 - **96,17 %** d'accuracy
 
-🔗→ [voir le projet](https://github.com/Fallou-Diouf/amazon-sentiment-analysis)
+🔗→ [voir le projet](https://github.com/Fallou-Diouf/MNIST-Image-Classification-PyTorch)
 
 ---
 
