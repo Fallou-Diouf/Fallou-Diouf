@@ -1,50 +1,232 @@
-# 👋 Salut, moi c’est Fallou Diouf  
-### Ingénieur Machine Learning | Computer Vision | NLP | Data Engineering
+# 👋 Bonjour, moi c'est Fallou Diouf
 
-Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les systèmes de recherche intelligents et le déploiement de pipelines ML robustes.
+**Ingénieur Machine Learning • Vision par Ordinateur • Deep Learning • Recherche d'Information**
 
----
+🎓 **Master Vision & Machine Intelligence — Université Paris Cité**
 
-## 🚀 Projets phares
-
-### 🔥 Test-Time Training — SimCLR + Vision Transformer  
-→ Accuracy : **90.08%**  
-→ Robustesse : **+0.39** sur CIFAR‑10‑C  
-→ [Voir le projet](https://github.com/Fallou-Diouf/SelfSupervised-TTT-ImageClassification)
-
-### 🖼️ ArtIndexAI — Indexation d’images à grande échelle  
-→ 10k+ images indexées  
-→ API Django
-→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
-
-### 🔍 NLP Search Engine: InformationRetrieval — TF‑IDF, BM25, Embeddings  
-→ MRR : **0.58 → 0.72**  
-→ [Voir le projet](https://github.com/Fallou-Diouf/InformationRetrieval)
+Passionné par l'intelligence artificielle, je conçois des systèmes capables d'analyser, comprendre et retrouver efficacement l'information à partir d'images et de textes. Mes projets couvrent le **Deep Learning**, la **Vision par Ordinateur**, la **Recherche d'Information (Information Retrieval)** ainsi que le développement d'API de Machine Learning prêtes pour la production.
 
 ---
 
-## 🧠 Compétences
+# 🚀 Projets phares
 
-- Machine Learning & Data Science:
-Techniques : Regression, classification, clustering (k-NN, k-means), model evaluation, hyperparameter tuning, Analyse exploratoire de données
-- Outils : Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- Vision par Ordinateur & Deep Learning:
-Architectures : Vision Transformer (ViT), CNN (AlexNet, ResNet), Apprentissage auto-supervisé (SimCLR)
-- Frameworks : PyTorch (maitrise), TensorFlow (notions), Hugging Face Vision, OpenCV
-Spécialités : Classification d’images, indexation vectorielle, adaptation temps-réel (TTT), descripteurs classiques
-D´eveloppement & Déploiement:
-- Langages : Python, SQL, JavaScript, Java, C/C++, HTML
-- Backend & APIs : FastAPI, Django, REST APIs, Docker, Git, Linux, PySpark
-- Data Tools : Elasticsearch, MongoDB, Vector Databases, Semantic Search, Embeddings, postgresSQL, Oracle
+## 🔥 Test-Time Training auto-supervisé (SimCLR + Vision Transformer)
+
+Classification d'images robuste grâce à une adaptation en ligne aux changements de distribution.
+
+### Points clés
+
+- SimCLR + Vision Transformer (ViT-Tiny)
+- Test-Time Training par minimisation d'entropie
+- **90,08 %** d'accuracy sur CIFAR-10
+- **+0,39 point** de robustesse sur CIFAR-10-C
+
+🔗→ [Voir le projet](https://github.com/Fallou-Diouf/SelfSupervised-TTT-ImageClassification)
+
 ---
 
-## 🎓 Formation  
-- **Master 2 — Vision & Machine Intelligence**, Université Paris Cité  
-- **Master 1 — Vision & Machine Intelligence**, Université Paris Cité  
-- **Master 1 — Data Engineering & Software Engineering**, UGB  
-- **Licence Informatique — Information Systems**, UGB  
+## 🖼️ ArtIndexAI — Moteur d'indexation d'images
 
-## 📫 Contact  
-- Email : *fallou.fadal.diouf4@gmail.com*  
-- LinkedIn : *https://www.linkedin.com/in/fallou-diouf/*  
-- GitHub : https://github.com/falloudiouf
+Plateforme complète d'indexation et de recherche d'images basée sur le Deep Learning.
+
+### Points clés
+
+- Plus de **10 000 images indexées**
+- API REST Django
+- Elasticsearch + Recherche vectorielle
+- Extraction de caractéristiques avec CNN
+- Jusqu'à **50 requêtes/seconde**
+- Latence inférieure à **120 ms**
+
+🔗→ [Voir le projet](https://github.com/Fallou-Diouf/InformationRetrieval)
+
+---
+
+## 🔍 Information Retrieval — Moteur de recherche NLP
+
+Moteur de recherche combinant recherche lexicale et recherche sémantique.
+
+### Points clés
+
+- TF-IDF
+- BM25
+- Sentence Transformers
+- MRR amélioré de **0,58 à 0,72**
+- Réduction de **35 %** de la latence
+
+🔗→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI)
+
+---
+
+## 🪙 Currency Vision — Détection et comptage de pièces
+
+Pipeline complet de vision par ordinateur utilisant des méthodes classiques de traitement d'images.
+
+### Points clés
+
+- OpenCV
+- CLAHE
+- Flou gaussien
+- Seuillage Otsu / Multi-Otsu
+- Transformée de Hough
+- Détection de formes
+- **94 % d'accuracy**
+- Temps de traitement inférieur à **150 ms par image**
+
+🔗 *(Lien du dépôt GitHub)*
+
+---
+
+## 🤖 Analyse de sentiments sur les avis Amazon
+
+Fine-tuning d'un modèle BERT pour la classification de sentiments.
+
+### Points clés
+
+- Plus de **77 000 avis Amazon**
+- Hugging Face Transformers
+- **92 % d'accuracy**
+- **F1-score : 0,90**
+- Pipeline de prétraitement optimisé (**-40 %** de temps d'entraînement)
+
+🔗 *(Lien du dépôt GitHub)*
+
+---
+
+## 🔷 Reconnaissance de formes — BDShape
+
+Classification de formes à l'aide de descripteurs classiques.
+
+### Points clés
+
+- Descripteurs GFD, E34, SA, F0 et F2
+- Classification k-NN
+- Clustering k-Means
+- Vote majoritaire multi-descripteurs
+- **91,9 % d'accuracy**
+
+🔗 *(Lien du dépôt GitHub)*
+
+---
+
+## 🧠 Classification d'images CIFAR-10
+
+Implémentation d'AlexNet avec techniques de régularisation.
+
+### Points clés
+
+- PyTorch
+- AlexNet
+- Data Augmentation
+- Dropout
+- Régularisation L2
+- **95,47 %** d'accuracy en entraînement
+- **79,11 %** en validation
+
+🔗 *(Lien du dépôt GitHub)*
+
+---
+
+## 🔢 Classification MNIST
+
+Pipeline complet de classification de chiffres manuscrits.
+
+### Points clés
+
+- CNN sous PyTorch
+- Analyse des erreurs
+- **96,17 %** d'accuracy
+
+🔗 *(Lien du dépôt GitHub)*
+
+---
+
+# 🛠️ Compétences
+
+## Machine Learning & Deep Learning
+
+- Python
+- PyTorch
+- Scikit-learn
+- TensorFlow
+- Hugging Face
+- OpenCV
+- Pandas
+- NumPy
+- Matplotlib
+
+## Vision par Ordinateur
+
+- Vision Transformer (ViT)
+- CNN
+- SimCLR
+- Classification d'images
+- Traitement d'images
+- Indexation vectorielle
+- Test-Time Training
+
+## Recherche d'Information & Data
+
+- Elasticsearch
+- Sentence Transformers
+- BM25
+- TF-IDF
+- Recherche sémantique
+- MongoDB
+- PostgreSQL
+- Oracle
+- SQL
+
+## Développement
+
+- FastAPI
+- Django
+- REST API
+- Docker
+- Git
+- Linux
+- PySpark
+
+---
+
+# 📊 Quelques chiffres
+
+- 🚀 Plus de **10 projets** en Machine Learning
+- 🖼️ **10 000+** images indexées
+- 🎯 **90,08 %** sur CIFAR-10 avec Test-Time Training
+- 🤖 **92 %** d'accuracy avec BERT
+- 🔍 **+24 %** de gain sur le MRR d'un moteur de recherche
+- ⚡ API REST capable de traiter **50 requêtes/seconde**
+
+---
+
+# 🎓 Formation
+
+### Université Paris Cité
+
+**Master Vision & Machine Intelligence**
+
+### Université Gaston Berger
+
+- Master Data Engineering & Software Engineering
+- Licence Informatique
+
+---
+
+# 📫 Me contacter
+
+📧 **Email**
+
+**fallou.fadal.diouf4@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/fallou-diouf/
+
+💻 **GitHub**
+
+https://github.com/Fallou-Diouf
+
+---
+
+> *Toujours intéressé par les projets en Intelligence Artificielle, Vision par Ordinateur, Machine Learning et Recherche d'Informations
