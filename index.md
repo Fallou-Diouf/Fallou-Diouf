@@ -35,6 +35,6 @@ Passionné par la Vision par Ordinateur, les modèles auto-supervisés, les syst
 ---
 
 ## 📫 Contact  
-- Email : *à ajouter*  
-- LinkedIn : *à ajouter*  
+- Email : *fallou.fadal.diouf4@gmail.com*  
+- LinkedIn : *https://www.linkedin.com/in/fallou-diouf/*  
 - GitHub : https://github.com/falloudiouf
