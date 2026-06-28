@@ -38,6 +38,12 @@ D´eveloppement & Déploiement:
 - Data Tools : Elasticsearch, MongoDB, Vector Databases, Semantic Search, Embeddings, postgresSQL, Oracle
 ---
 
+## 🎓 Formation  
+- **Master 2 — Vision & Machine Intelligence**, Université Paris Cité  
+- **Master 1 — Vision & Machine Intelligence**, Université Paris Cité  
+- **Master 1 — Data Engineering & Software Engineering**, UGB  
+- **Licence Informatique — Information Systems**, UGB  
+
 ## 📫 Contact  
 - Email : *fallou.fadal.diouf4@gmail.com*  
 - LinkedIn : *https://www.linkedin.com/in/fallou-diouf/*  
