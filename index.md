@@ -17,6 +17,7 @@ J'aime transformer des problématiques complexes en solutions concrètes et perf
 Aujourd'hui, je souhaite mettre mes compétences au service de projets innovants en **Computer Vision**, **Machine Learning**, **IA appliquée** et **Recherche & Développement**, où la qualité des modèles, la robustesse des systèmes et leur déploiement sont au cœur des enjeux.
 
 [Savoir plus sur le Master VMI](https://math-info.u-paris.fr/master-informatique/parcours-vision-et-machine-intelligente/)
+
 [Savoir plus sur le Master GDIL](https://www.ugb.sn/sites/default/files/SAT-Maquette-Master-INFO.pdf)
 
 ---
