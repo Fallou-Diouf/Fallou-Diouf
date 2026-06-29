@@ -1,14 +1,23 @@
 # 👋 À propos de moi
 
-Je suis **Fallou Diouf**, étudiant en **Master 2 Vision & Machine Intelligence** à l'Université Paris Cité (https://math-info.u-paris.fr/master-informatique/parcours-vision-et-machine-intelligente/), spécialisé en **Intelligence Artificielle, Vision par Ordinateur, Deep Learning et Recherche d'Information**.
+**Ingénieur IA en devenir | Machine Learning • Computer Vision • Information Retrieval • Deep Learning**
 
-Mon parcours est construit autour d'une double expertise. J'ai d'abord suivi une formation en **Gestion des Données et Ingénierie Logicielle** (https://www.ugb.sn/sites/default/files/SAT-Maquette-Master-INFO.pdf), qui m'a permis d'acquérir de solides bases en conception logicielle, architecture d'applications, bases de données, développement d'API et gestion de projets. J'ai ensuite choisi de me spécialiser en **Vision par Ordinateur et Machine Learning** afin de concevoir des systèmes intelligents capables d'analyser, comprendre et exploiter des données visuelles et multimédias.
+🎓 Master 2 Vision & Machine Intelligence — Université Paris Cité
 
-Aujourd'hui, je m'intéresse particulièrement à la conception de solutions d'IA de bout en bout : du traitement et de l'indexation des données, à l'entraînement de modèles de Deep Learning, jusqu'au déploiement d'applications performantes et prêtes pour la production.
+💡 Je conçois des systèmes d'IA de bout en bout, du traitement des données au déploiement de modèles de Deep Learning en production.
 
-À travers mes projets, j'ai travaillé sur des problématiques variées telles que la **classification d'images**, l'**apprentissage auto-supervisé**, le **Test-Time Training**, la **recherche d'information**, la **recherche vectorielle**, les **systèmes d'indexation d'images**, le **traitement automatique du langage naturel (NLP)** et le développement d'API de Machine Learning.
+# 👋 À propos de moi
 
-Je recherche aujourd'hui des opportunités en **Machine Learning Engineering**, **Computer Vision**, **Applied AI** ou **R&D**, où je pourrai contribuer au développement de systèmes intelligents à fort impact tout en continuant à approfondir mes compétences en intelligence artificielle.
+Je suis **Fallou Diouf**, étudiant en **Master 2 Vision & Machine Intelligence(VMI)** à l'Université Paris Cité, passionné par l'Intelligence Artificielle et le développement de systèmes intelligents.
+
+Mon parcours combine une première spécialisation en **Gestion des Données & Ingénierie Logicielle(GDIL)** avec une expertise avancée en **Machine Learning**, **Vision par Ordinateur** et **Recherche d'Information**. Cette double compétence me permet d'aborder un projet d'IA dans sa globalité : de la conception logicielle et de la gestion des données jusqu'au développement, à l'optimisation et au déploiement de modèles de Deep Learning.
+
+J'aime transformer des problématiques complexes en solutions concrètes et performantes. Au travers de mes projets, j'ai conçu des systèmes de **classification d'images**, d'**apprentissage auto-supervisé**, de **Test-Time Training**, de **recherche sémantique**, d'**indexation d'images à grande échelle** et d'**API de Machine Learning** prêtes pour la production.
+
+Aujourd'hui, je souhaite mettre mes compétences au service de projets innovants en **Computer Vision**, **Machine Learning**, **IA appliquée** et **Recherche & Développement**, où la qualité des modèles, la robustesse des systèmes et leur déploiement sont au cœur des enjeux.
+
+[Savoir plus sur le Master VMI](https://math-info.u-paris.fr/master-informatique/parcours-vision-et-machine-intelligente/)
+[Savoir plus sur le Master GDIL](https://www.ugb.sn/sites/default/files/SAT-Maquette-Master-INFO.pdf)
 
 ---
 
