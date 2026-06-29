@@ -6,7 +6,7 @@
 
 💡 Je conçois des systèmes d'IA de bout en bout, du traitement des données au déploiement de modèles de Deep Learning en production.
 
-# 👋 À propos de moi
+# À propos de moi
 
 Je suis **Fallou Diouf**, étudiant en **Master 2 Vision & Machine Intelligence(VMI)** à l'Université Paris Cité, passionné par l'Intelligence Artificielle et le développement de systèmes intelligents.
 
