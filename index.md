@@ -1,4 +1,4 @@
-# 👋 À propos de moi
+# Fallou Diouf
 
 **Ingénieur IA en devenir | Machine Learning • Computer Vision • Information Retrieval • Deep Learning**
 
