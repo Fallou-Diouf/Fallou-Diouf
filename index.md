@@ -1,6 +1,6 @@
 # Fallou Diouf
 
-**Ingénieur IA en devenir | Machine Learning • Computer Vision • Information Retrieval • Deep Learning**
+**Ingénieur IA en devenir | Computer Vision & Traitement d'Images • Machine Learning • Data & IA**
 
 🎓 Master 2 Vision & Machine Intelligence — Université Paris Cité
 
@@ -34,22 +34,7 @@ Classification d'images robuste grâce à une adaptation en ligne aux changement
 - **90,08 %** d'accuracy sur CIFAR-10
 - **+0,39 point** de robustesse sur CIFAR-10-C
 
-🔗→ [Voir le projet](https://github.com/Fallou-Diouf/SelfSupervised-TTT-ImageClassification)
-
----
-
-## 🖼️ ArtIndexAI — Moteur d'indexation d'images
-
-Plateforme complète d'indexation et de recherche d'images basée sur le Deep Learning.
-
-### Points clés
-
-- Plus de **10 000 images indexées**
-- API REST Django
-- Elasticsearch + Recherche vectorielle
-- Extraction de caractéristiques avec CNN
-
-🔗→ [Voir le projet](https://github.com/Fallou-Diouf/ArtIndexAI) 
+🔗→ [Voir le projet](https://github.com/Fallou-Diouf/SelfSupervised-TTT-ImageClassification) 
 
 ---
 
